@@ -1,9 +1,11 @@
 # SA.01-WK1-Code-Challenge
-#### Date, 2018/09/14
-#### By *Hamida Mstafa Mohamed*
+#### Date, 2024/28/2024
+#### By *Cody Odhiambo*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+First js file: Assigns grades according to marks.
+Second js file: Calculates speed and gived dermit points according to much much the driver has gone over the speed limit.
+Third js file: Calculates Tax.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -13,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone git@github.com:s1rcody66/SA.01-WK1-Code-Challenge.git
 
 ```
 
@@ -22,12 +24,11 @@ Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
 
 ## Technologies used
 HTML
-CSS
 Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+https://github.com/s1rcody66
 
 ### License
 The content of this site is licensed under the MIT license
